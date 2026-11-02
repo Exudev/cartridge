@@ -1,0 +1,19 @@
+{
+  "name": "com.exudev.cartridge",
+  "version": "0.2.0",
+  "displayName": "Cartridge Game Core",
+  "description": "Lightweight, engine-agnostic C# game core toolkit (Scoring, Combos, Ranks, Progression, State Machine, Timers, Seeded RNG, Save/Load).",
+  "unity": "2021.2",
+  "keywords": [
+    "gamedev",
+    "scoring",
+    "combos",
+    "progression",
+    "statemachine",
+    "timers",
+    "rng"
+  ],
+  "author": {
+    "name": "exudev"
+  }
+}
